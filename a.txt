@@ -1,2 +1,6 @@
 line 1
 line 2
+
+//feature
+feature line 1
+feature line 2
